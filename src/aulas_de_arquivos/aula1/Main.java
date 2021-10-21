@@ -1,4 +1,4 @@
-package aula1;
+package aulas_de_arquivos.aula1;
 
 import java.io.File;
 import java.io.IOException;

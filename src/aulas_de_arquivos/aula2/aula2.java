@@ -1,4 +1,4 @@
-package aula2;
+package aulas_de_arquivos.aula2;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
